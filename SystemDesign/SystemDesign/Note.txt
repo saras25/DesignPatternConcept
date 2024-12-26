@@ -1,0 +1,4 @@
+Steps to create singleton design patterm
+1. Constructor must be private
+2. Instance variable must be static
+3. Method must be statics

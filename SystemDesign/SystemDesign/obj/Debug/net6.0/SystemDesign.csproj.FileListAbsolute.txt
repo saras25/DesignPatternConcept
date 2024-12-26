@@ -1,0 +1,15 @@
+D:\DesignPattern\SystemDesign\SystemDesign\bin\Debug\net6.0\SystemDesign.exe
+D:\DesignPattern\SystemDesign\SystemDesign\bin\Debug\net6.0\SystemDesign.deps.json
+D:\DesignPattern\SystemDesign\SystemDesign\bin\Debug\net6.0\SystemDesign.runtimeconfig.json
+D:\DesignPattern\SystemDesign\SystemDesign\bin\Debug\net6.0\SystemDesign.dll
+D:\DesignPattern\SystemDesign\SystemDesign\bin\Debug\net6.0\SystemDesign.pdb
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\SystemDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\SystemDesign.AssemblyInfoInputs.cache
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\SystemDesign.AssemblyInfo.cs
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\SystemDesign.csproj.CoreCompileInputs.cache
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\SystemDesign.sourcelink.json
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\SystemDesign.dll
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\refint\SystemDesign.dll
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\SystemDesign.pdb
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\SystemDesign.genruntimeconfig.cache
+D:\DesignPattern\SystemDesign\SystemDesign\obj\Debug\net6.0\ref\SystemDesign.dll
